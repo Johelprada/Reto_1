@@ -1,1 +1,1 @@
-
+Dado que este reto no lo hice a tiempo y no lo subi, lo termine recientemente debido a la necesidad de tenerlo para poder hacer el reto 5, por este motivo descidi añadirle un par de cosas que mejorarian el codigo inicial he investigar un poco mas para poder mejorarlo, en los siguientes archivos encontrara la solucion a los problemas planteados del reto 1 los cuales estaran comentas explicandosen.
